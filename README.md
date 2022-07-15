@@ -1,3 +1,3 @@
-# Full-Stack
+# Front-end
 
-Repositorio dedicado a practica para Front-end y Back-end 
+Repositorio dedicado a practica para Front-end 
